@@ -2,11 +2,11 @@
 using namespace std;
 
 int main() {
-    cout << "Name: Riddhima Gautam" << endl;
+    cout << "Name: Ajay Roy" << endl;
     cout << "Course: B.Tech" << endl;
-    cout << "Branch: CSE" << endl;
-    cout << "College: UIT RGPV" << endl;
-    cout << "City: Bhopal" << endl;
+    cout << "Branch: Mechanical" << endl;
+    cout << "College: VIT RGPV" << endl;
+    cout << "City: Vellore" << endl;
 
     return 0;
 }
